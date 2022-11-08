@@ -1,0 +1,770 @@
+<tr>
+    <td>221</td>
+    <td>mask-border-repeat</td>
+    <td>소스 이미지의 가장자리 영역이 요소의 마스크 경계 치수에 맞게 조정되는 방법을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>222</td>
+    <td>mask-border-slice</td>
+    <td>mask-border-source에 의해 설정된 이미지를 영역으로 나눕니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>223</td>
+    <td>mask-border-source</td>
+    <td>요소의 마스크 경계를 만드는 데 사용되는 소스 이미지를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>224</td>
+    <td>mask-border-width</td>
+    <td>요소의 마스크 경계 너비를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>225</td>
+    <td>mask-clip</td>
+    <td>마스크의 영향을 받는 영역을 결정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>226</td>
+    <td>mask-composite</td>
+    <td>마스크 레이어가 아래에 있는 현재 마스크 레이어에 사용되는 합성 연산을 나타냅니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>227</td>
+    <td>mask-image</td>
+    <td>요소의 마스크 계층으로 사용되는 이미지를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>228</td>
+    <td>mask-mode</td>
+    <td>마스크 이미지에 의해 정의된 마스크 기준이 휘도로 처리되는지 알파 마스크로 처리되는지 여부를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>229</td>
+    <td>mask-origin</td>
+    <td>마스크의 근원을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>230</td>
+    <td>mask-position</td>
+    <td>정의된 각 마스크 이미지에 대해 마스크 근원에 의해 설정된 마스크 위치 레이어에 상대적인 초기 위치를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>231</td>
+    <td>mask-repeat</td>
+    <td>마스크 이미지가 반복되는 방법을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>232</td>
+    <td>mask-size</td>
+    <td>마스크 이미지의 크기를 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>233</td>
+    <td>mask-type</td>
+    <td>SVG 요소가 휘도로 사용되는지 알파 마스크로 사용되는지를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>234</td>
+    <td>max-block-size</td>
+    <td>쓰기 모드에 의해 지정된 쓰기 방향과 반대 방향으로 요소의 최대 크기를 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>235</td>
+    <td>max-height</td>
+    <td>요소의 최대 높이를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>236</td>
+    <td>max-inline-size</td>
+    <td>쓰기 모드에 따라 요소 블록의 수평 또는 수직 최대 크기를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>237</td>
+    <td>max-width</td>
+    <td>요소의 최대 너비를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>238</td>
+    <td>min-block-size</td>
+    <td>쓰기 모드에 따라 요소 블록의 최소 수평 또는 수직 크기를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>239</td>
+    <td>min-height</td>
+    <td>요소의 최소 높이를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>240</td>
+    <td>min-inline-size</td>
+    <td>쓰기 모드에 따라 요소 블록의 수평 또는 수직 최소 크기를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>241</td>
+    <td>min-width</td>
+    <td>최소 너비를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>242</td>
+    <td>mix-blend-mode</td>
+    <td>어느 요소의 콘텐츠가 자신의 배경 및 부모와 어떻게 혼합되어야 하는지를 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>243</td>
+    <td>object-fit</td>
+    <td>&lt;img&gt; 또는 &lt;video&gt; 대체 요소의 콘텐츠 크기를 어떤 방식으로 조절해 요소에 맞출 것인지를 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>244</td>
+    <td>object-position</td>
+    <td>대체 요소의 콘텐츠 정렬 방식을 지정합니다. 대체 요소의 객체로 덮지 않은 부분은 요소의 배경이 보입니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>245</td>
+    <td>offset</td>
+    <td>정의된 경로를 따라 요소에 애니메이션을 적용하는 데 필요한 모든 속성을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>246</td>
+    <td>offset-anchor</td>
+    <td>실제로 경로를 따라 움직이는 오프셋 경로를 따라 이동하는 요소의 상자 내부 지점을 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>247</td>
+    <td>offset-distance</td>
+    <td>경로를 따라 배치할 요소의 위치를 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>248</td>
+    <td>offset-path</td>
+    <td>요소가 따라갈 모션 경로를 지정하고 상위 컨테이너 또는 SVG 좌표 시스템 내에서 요소의 위치를 ​​정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>249</td>
+    <td>offset-position</td>
+    <td>오프셋 경로의 초기 위치를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>250</td>
+    <td>offset-rotate</td>
+    <td>오프셋 경로를 따라 배치되는 요소의 방향을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>251</td>
+    <td>opacity</td>
+    <td>요소의 투명도를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>252</td>
+    <td>order</td>
+    <td>플렉스 또는 그리드 콘텐츠의 순서를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>253</td>
+    <td>orphans</td>
+    <td>페이지, 영역 또는 열의 맨 아래에 표시되어야 하는 블록 컨테이너의 최소 줄 수를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>254</td>
+    <td>outline</td>
+    <td>모든 외곽선 속성을 한꺼번에 지정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>255</td>
+    <td>outline-color</td>
+    <td>아웃라인의 색을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>256</td>
+    <td>outline-offset</td>
+    <td>아웃라인의 간격을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>257</td>
+    <td>outline-style</td>
+    <td>아웃라인 스타일을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>258</td>
+    <td>outline-width</td>
+    <td>아웃라인의 두께를 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>259</td>
+    <td>overflow</td>
+    <td>지정한 영역에 요소들이 벗어났을 때 속성을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>260</td>
+    <td>overflow-anchor</td>
+    <td>스크롤 고정 문제가 발생하고 동작을 해제해야하는 경우에 사용합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>261</td>
+    <td>overflow-block</td>
+    <td>콘텐츠가 상자의 블록 시작 및 블록 끝 가장자리를 오버플로할 때 표시되는 내용을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>262</td>
+    <td>overflow-clip-margin</td>
+    <td>요소가 잘리기 전에 페인팅할 수 있는 범위를 결정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>263</td>
+    <td>overflow-inline</td>
+    <td>콘텐츠가 상자의 인라인 시작 및 끝 가장자리를 오버플로할 때 표시되는 내용을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>264</td>
+    <td>overflow-wrap</td>
+    <td>어떤 문자가 내용 칸 밖으로 넘치지 않도록, 브라우저가 단어 마디 안에서 줄을 바꿔야 할 것인지 아닌지를 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>265</td>
+    <td>overflow-x</td>
+    <td>X축을 기준으로 지정한 영역에 요소들이 벗어났을 때 속성을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>266</td>
+    <td>overflow-y</td>
+    <td>Y축을 기준으로 지정한 영역에 요소들이 벗어났을 때 속성을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>267</td>
+    <td>overscroll-behavior</td>
+    <td>스크롤 영역의 경계에 도달할 때 브라우저가 수행하는 동작을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>268</td>
+    <td>overscroll-behavior-block</td>
+    <td>스크롤 영역의 블록 방향 경계에 도달할 때 브라우저의 동작을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>269</td>
+    <td>overscroll-behavior-inline</td>
+    <td>스크롤 영역의 인라인 방향 경계에 도달할 때 브라우저의 동작을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>270</td>
+    <td>overscroll-behavior-x</td>
+    <td>스크롤 영역의 수평 경계에 도달할 때 브라우저의 동작을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>271</td>
+    <td>overscroll-behavior-y</td>
+    <td>스크롤 영역의 수직 경계에 도달할 때 브라우저의 동작을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>272</td>
+    <td>padding</td>
+    <td>요소의 안쪽 여백을 설정합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>273</td>
+    <td>padding-block</td>
+    <td>요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 패딩 속성에 매핑되는 요소의 논리적 블록 시작 및 끝 패딩을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>274</td>
+    <td>padding-block-end</td>
+    <td>요소의 쓰기 모드, 방향 및 텍스트 방향에 따라 물리적 패딩 속성에 매핑되는 요소의 논리적 블록 시작 및 끝 패딩을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>
+<tr>
+    <td>275</td>
+    <td>padding-block-start</td>
+    <td>요소의 쓰기 모드, 방향성 및 텍스트 방향에 따라 물리적 패딩에 매핑되는 요소의 논리적 블록 시작 패딩을 정의합니다.</td>
+    <td>
+        <span class="material-symbols-outlined">star</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+        <span class="material-symbols-outlined">grade</span>
+    </td>
+    <td><a href="#">클릭</a></td>
+    <td></td>
+</tr>

@@ -1,0 +1,140 @@
+{
+    "type":"css_refer",
+    "cssRefer": [
+        {
+            "num": 1,
+            "title": "backdrop-filter",
+            "desc": "backdrop-filter 속성은 요소 뒤 영역에 흐림 또는 색상 이동과 같은 그래픽 효과를 적용할 수 있습니다 .",
+            "descBasic": "backdrop-filter : blur(2px)",
+            "descApple": "모든 속성",
+            "descVer": "CSS3",
+            "descStar": "💜💜🤍🤍🤍",
+            "definition": [
+                "backdrop-filter 속성을 사용하려면 요소나 배경을 최소한 부분적으로 투명해야 합니다.",
+                "backdrop-filter 속성은 모든 요소; SVG에서는 defs요소 및 모든 그래픽 요소를 제외한 컨테이너 요소에 적용됩니다."
+            ]
+        },
+        {
+            "num": 2,
+            "title": "background-color",
+            "desc": "background-color 속성은 배경 색상을 설정합니다.",
+            "descBasic": "background-color  : purple",
+            "descApple": "모든 속성",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜💜",
+            "definition": [
+                "background-color 속성은 배경 색상을 설정합니다."
+            ]
+        },
+        {
+            "num": 3,
+            "title": "background-position",
+            "desc": "background-position 속성은 백그라운드 이미지의 위치 영역을 설정합니다.",
+            "descBasic": "background-position : center",
+            "descApple": "모든 속성",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜🤍🤍",
+            "definition": [
+                "background-position 속성은 백그라운드 이미지의 위치 영역을 설정합니다."
+            ]
+        },
+        {
+            "num": 4,
+            "title": "background-size",
+            "desc": "background-size 속성은 백그라운드 이미지 사이즈를 설정합니다.",
+            "descBasic": "background-size : cover",
+            "descApple": "모든 속성",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜🤍",
+            "definition": [
+                "background-size 속성은 백그라운드 이미지 사이즈를 설정합니다."
+            ]
+        },
+        {
+            "num": 5,
+            "title": "border",
+            "desc": "border 속성은 테두리 속성을 일괄적으로 설정합니다.",
+            "descBasic": "border : 1px solid black",
+            "descApple": "border",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜💜",
+            "definition": [
+                "border 속성은 테두리 속성을 일괄적으로 설정합니다."
+            ]
+        },
+        {
+            "num": 6,
+            "title": "color",
+            "desc": "color 속성은 텍스트 내용의 글자 색상을 지정합니다.",
+            "descBasic": "color : purple",
+            "descApple": "color",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜💜",
+            "definition": [
+                "color 속성은 텍스트 내용의 글자 색상을 지정합니다."
+            ]
+        },
+        {
+            "num": 7,
+            "title": "display",
+            "desc": "display 속성은 엘리먼트의 디스플레이 속성을 지정한다.",
+            "descBasic": "display : flex",
+            "descApple": "display",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜💜",
+            "definition": [
+                "display 속성은 엘리먼트의 디스플레이 속성을 지정한다."
+            ]
+        },
+        {
+            "num": 8,
+            "title": "filter",
+            "desc": "filter 속성은 요소 흐림 또는 색상 변화와 같은 그래픽 효과를 적용한다. ",
+            "descBasic": "filter : blur(5px);",
+            "descApple": "filter",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜🤍🤍",
+            "definition": [
+                "filter 속성은 요소 흐림 또는 색상 변화와 같은 그래픽 효과를 적용한다."
+            ]
+        },
+        {
+            "num": 9,
+            "title": "flex-wrap",
+            "desc": "flex-wrap 속성은 flexible item을 wrap 할것인지 아닌지를 지정한다.",
+            "descBasic": "flex-wrap : nowrap;",
+            "descApple": "flex-wrap",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜🤍🤍",
+            "definition": [
+                "flex-wrap 속성은 flexible item을 wrap 할것인지 아닌지를 지정한다."
+            ]
+        },
+        {
+            "num": 10,
+            "title": "float",
+            "desc": "float 속성은 용기박스를 왼쪽 또는 오른쪽로 이동하거나 이동하지 않음을 지정한다.",
+            "descBasic": "float : left;",
+            "descApple": "float",
+            "descVer": "CSS3",
+            "descStar": "💜💜💜💜🤍",
+            "definition": [
+                "float 속성은 용기박스를 왼쪽 또는 오른쪽로 이동하거나 이동하지 않음을 지정한다."
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

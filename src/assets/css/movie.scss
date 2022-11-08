@@ -1,0 +1,298 @@
+.movie__inner {
+    ul {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-bottom: 100px;
+
+        li {
+            width: 23%;
+            position: relative;
+
+            em {
+                display: block;
+                height: 80px;
+                margin-bottom: 30px;
+                font-family: var(--font-sub2);
+            }
+
+            .title {
+                display: inline-block;
+                padding: 8px 0;
+            }
+            .star {
+                background: #fff;
+                color: #000;
+                position: absolute;
+                left: 10px;
+                top: 10px;
+                width: 30px;
+                height: 30px;
+                border-radius: 100px;
+                text-align: center;
+                line-height: 31px;
+                font-weight: 800;
+            }
+            
+        }
+       
+    }
+
+    a {
+        color: var(--white);
+    }
+    
+}
+
+.movie__search {
+    margin-bottom: 100px;
+
+    .container {
+        position: relative;
+    }
+
+    h2 {
+        color: var(--white);
+        font-size: 40px;
+        text-indent: -99999px;
+        height: 0;
+    }
+
+    input {
+        background: #000;
+        border: 1px solid  var(--white);
+        border-radius: 50px;
+        color: #fff;
+        width: 100%;
+        padding: 15px 30px;
+        font-family: var(--font-kor2);
+    }
+
+    button {
+        position: absolute;
+        right: 6px;
+        top: 6px;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        border: 0;
+        font-family: var(--font-kor2);
+        z-index: 100;
+    }
+}
+
+.movie__rangk {
+    ul {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-bottom: 100px;
+
+        li {
+            width: 200%;
+            position: relative;
+            // display: none;
+
+            &:nth-child(1), &:nth-child(2), &:nth-child(3), &:nth-child(4), &:nth-child(5){
+                // display: block;
+            }
+
+            &:nth-child(1)::after {
+                content: 'First';
+                color: #fff;    
+                font-size: 24px;
+                position: absolute;
+                top: -40px;
+                left: 0;
+                border-bottom: 1px solid white;
+            }
+            &:nth-child(2)::after {
+                content: 'Second';
+                color: #fff;    
+                font-size: 24px;
+                position: absolute;
+                top: -40px;
+                left: 0;
+                border-bottom: 1px solid white;
+            }
+            &:nth-child(3)::after {
+                content: 'Third';
+                color: #fff;    
+                font-size: 24px;
+                position: absolute;
+                top: -40px;
+                left: 0;
+                border-bottom: 1px solid white;
+            }
+            &:nth-child(4)::after {
+                content: 'Fourth';
+                color: #fff;    
+                font-size: 24px;
+                position: absolute;
+                top: -40px;
+                left: 0;
+                border-bottom: 1px solid white;
+            }
+            &:nth-child(5)::after {
+                content: 'Fifth';
+                color: #fff;    
+                font-size: 24px;
+                position: absolute;
+                top: -40px;
+                left: 0;
+                border-bottom: 1px solid white;
+            }
+            
+            em {
+                display: block;
+                height: 80px;
+                margin-bottom: 30px;
+                font-family: var(--font-sub2);
+            }
+
+            .title {
+                display: inline-block;
+                padding: 8px 0;
+
+                
+            }
+            .star {
+                background: #fff;
+                color: #000;
+                position: absolute;
+                left: 10px;
+                top: 10px;
+                width: 30px;
+                height: 30px;
+                border-radius: 100px;
+                text-align: center;
+                line-height: 31px;
+                font-weight: 800;
+            }
+        }
+       
+    }
+
+    a {
+        color: var(--white);
+    }
+    
+    
+}
+
+.swiper.swiper-initialized.swiper-horizontal.swiper-pointer-events.mySwiper {
+    padding-bottom: 100px;
+    padding-top: 60px;
+}
+
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 60px !important;
+    color: #fff !important;
+}
+
+.swiper-wrapper { 
+    li {
+        width: 80%;
+        
+        a {
+            color: var(--font-color2);
+        }
+    }
+}
+
+.swiper-slide {
+    &:nth-child(1) li::after {
+        content: 'First';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(2) li::after {
+        content: 'Second';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(3) li::after {
+        content: 'Third';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(4) li::after {
+        content: 'Fourth';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(5) li::after {
+        content: 'Fifth';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(6) li::after {
+        content: 'Sixth';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(7) li::after {
+        content: 'Seventh';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(8) li::after {
+        content: 'Eigtht';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(9) li::after {
+        content: 'Ninth';
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(10) li::after {
+        content: 'Tenth';
+        color: #fff;    
+        color: #fff;    
+        font-size: 24px;
+        position: absolute;
+        top: -40px;
+        left: 0;
+        border-bottom: 1px solid white;
+    }
+    &:nth-child(11) li,&:nth-child(12) li,&:nth-child(13) li,&:nth-child(14) li {
+        display: none ;  
+    }
+} 
