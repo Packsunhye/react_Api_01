@@ -11,7 +11,6 @@ import Contact from "../layout/Contact";
 // 변수 : 저장, 추가, 변경 --> 자동
 
 function Reference() {
-
   const [references, setReerences] = useState([]);
 
   // useEffect(() => {
@@ -23,13 +22,15 @@ function Reference() {
   // }, []);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/Packsunhye/react_api/main/util/reference_1105.json")
-    .then(response => response.json())
-    // .then(result => console.log(result.data.htmlRefer))
-    .then(result => setReerences(result.cssRefer))
-    .catch(error => console.log('error', error));
+    fetch(
+      "https://raw.githubusercontent.com/Packsunhye/react_api/main/util/reference_1105.json"
+    )
+      .then((response) => response.json())
+      // .then(result => console.log(result.data.htmlRefer))
+      .then((result) => setReerences(result.cssRefer))
+      .catch((error) => console.log("error", error));
   }, []);
-    
+
   return (
     <>
       <Header />

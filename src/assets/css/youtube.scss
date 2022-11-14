@@ -1,0 +1,43 @@
+.cont__youtube {
+    ul {
+        column-count: 3;
+        column-gap: 20px;
+        width: 100%;
+        
+        li {
+            margin-bottom: 20px;
+
+            img {
+                border-radius: 5px;
+            }
+
+            span {
+                display: inline-block;
+                padding-top: 10px;
+                color: var(--white);
+                font-family: var(--font-kor1);
+                
+            }
+        }
+    }
+
+    
+}
+
+.swiper-slide {
+    ul {
+        li {
+            em {
+                span {
+                    display: inline-block;
+                    padding-top: 10px;
+                    color: var(--white) !important;
+                    font-size: 14px;
+                    font-family: var(--font-kor1) !important;
+                }
+            }
+            
+        }
+    }
+   
+}

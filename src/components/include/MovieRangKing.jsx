@@ -1,10 +1,12 @@
 import React from "react";
 
 import { Swiper, SwiperSlide } from "swiper/react";
+import { EffectCoverflow, Pagination, Autoplay } from "swiper";
 
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
+import "swiper/css/effect-coverflow";
 
 function MovieRanks(props) {
   return (
@@ -27,12 +29,20 @@ const MovieRangKing = (props) => {
   return (
     <>
       <Swiper
-        slidesPerView={4}
-        centeredSlides={true}
+        effect={"coverflow"}
         grabCursor={true}
-        pagination={{
-          clickable: true,
+        centeredSlides={true}
+        slidesPerView={"auto"}
+        coverflowEffect={{
+          rotate: 50,
+          stretch: 0,
+          depth: 100,
+          modifier: 1,
+          slideShadows: true,
         }}
+        autoplay={{ delay: 2500, disableOnInteraction: false }}
+        pagination={false}
+        modules={[EffectCoverflow, Pagination, Autoplay]}
         className="mySwiper"
       >
         <section className="cont__movie">
