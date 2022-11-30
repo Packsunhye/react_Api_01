@@ -1,55 +1,55 @@
 import React from "react";
 
-const UnsplashBtn = ({ onSearch }) => {
+const MovieBtn = ({ onSearch }) => {
   const onClick1 = () => {
-    onSearch("cat");
+    onSearch("Adventure Time");
   };
   const onClick2 = () => {
-    onSearch("nigth");
+    onSearch("Steven Universe");
   };
   const onClick3 = () => {
-    onSearch("dawn");
+    onSearch("Disney");
   };
   const onClick4 = () => {
-    onSearch("fox");
+    onSearch("PIXAR");
   };
   const onClick5 = () => {
-    onSearch("jellyfish");
+    onSearch("Animation");
   };
   const onClick6 = () => {
-    onSearch("sea");
+    onSearch("Zombi");
   };
   const onClick7 = () => {
-    onSearch("neon");
+    onSearch("Thriller ");
   };
 
   return (
-    <section className="cont__usplash">
+    <section className="cont__Movie">
       <div className="container">
         <div className="btn__box">
           <button type="submit" onClick={onClick1}>
             {/* {unsplashInfo.map((text, index) => (
-            <UnsplashText key={index} text={text.text} />
-          ))} */}
-            cat
+              <UnsplashText key={index} text={text.text} />
+            ))} */}
+            Adventure Time
           </button>
           <button type="submit" onClick={onClick2}>
-            nigth
+            Steven Universe
           </button>
           <button type="submit" onClick={onClick3}>
-            dawn
+            Disney
           </button>
           <button type="submit" onClick={onClick4}>
-            fox
+            PIXAR
           </button>
           <button type="submit" onClick={onClick5}>
-            jellyfish
+            Animation
           </button>
           <button type="submit" onClick={onClick6}>
-            sea
+            Zombi
           </button>
           <button type="submit" onClick={onClick7}>
-            neon
+            Thriller
           </button>
         </div>
       </div>
@@ -57,4 +57,4 @@ const UnsplashBtn = ({ onSearch }) => {
   );
 };
 
-export default UnsplashBtn;
+export default MovieBtn;

@@ -3,11 +3,13 @@ import React from "react";
 const YoutubeItem = ({ youtube }) => {
   return (
     <li>
-      <img
-        src={youtube.snippet.thumbnails.medium.url}
-        alt={youtube.snippet.channelTitle}
-      />
-      <span>{youtube.snippet.title}</span>
+      <a href={`https://www.youtube.com/watch?v=${youtube.id.videoId}`}>
+        <img
+          src={youtube.snippet.thumbnails.medium.url}
+          alt={youtube.snippet.channelTitle}
+        />
+        <span>{youtube.snippet.title}</span>
+      </a>
     </li>
   );
 };

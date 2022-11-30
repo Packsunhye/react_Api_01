@@ -1,23 +1,24 @@
 import React from "react";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCoverflow, Pagination /*Autoplay*/ } from "swiper";
+import { Autoplay, Pagination, Navigation } from "swiper";
 
-// Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import "swiper/css/effect-coverflow";
+import "swiper/css/navigation";
 
 function GameRandom({ game }) {
   return (
     <li>
-      <img
-        src={game.snippet.thumbnails.medium.url}
-        alt={game.snippet.channelTitle}
-      />
-      <em>
-        <span>{game.snippet.title}</span>
-      </em>
+      <a href={`https://www.youtube.com/watch?v=${game.id.videoId}`}>
+        <img
+          src={game.snippet.thumbnails.medium.url}
+          alt={game.snippet.channelTitle}
+        />
+        <em>
+          <span>{game.snippet.title}</span>
+        </em>
+      </a>
     </li>
   );
 }
@@ -26,25 +27,22 @@ function YoutubeSlider({ youtubeGame }) {
   return (
     <>
       <Swiper
-        effect={"coverflow"}
-        grabCursor={true}
-        centeredSlides={true}
-        slidesPerView={"auto"}
-        coverflowEffect={{
-          rotate: 50,
-          stretch: 0,
-          depth: 100,
-          modifier: 1,
-          slideShadows: true,
+        slidesPerView={3}
+        spaceBetween={30}
+        slidesPerGroup={3}
+        loop={true}
+        loopFillGroupWithBlank={true}
+        pagination={{
+          clickable: true,
         }}
-        // autoplay={{ delay: 2500, disableOnInteraction: false }}
-        pagination={false}
-        modules={[EffectCoverflow, Pagination /*Autoplay*/]}
+        navigation={true}
+        autoplay={{ delay: 2500, disableOnInteraction: false }}
+        modules={[Autoplay, Pagination, Navigation]}
         className="mySwiper"
       >
         <section className="cont__youtube">
           <div className="container">
-            <div className="usplash__random">
+            <div className="youtube__random">
               <ul>
                 {youtubeGame.map((game, index) => (
                   <SwiperSlide>

@@ -21,8 +21,9 @@ const UnsplashSlider = ({ random }) => {
   return (
     <>
       <Swiper
-        slidesPerView={1}
+        slidesPerView={4}
         spaceBetween={10}
+        centeredSlides={true}
         pagination={{
           clickable: false,
         }}

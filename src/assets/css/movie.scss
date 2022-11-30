@@ -45,7 +45,7 @@
 }
 
 .movie__search {
-    margin-bottom: 100px;
+    margin-bottom: 60px;
     padding-top: 60px;
 
     .container {
@@ -310,4 +310,31 @@ span.swiper-pagination-bullet {
 .swiper-slide img {
     display: block;
     width: 100%;
+}
+
+.cont__Movie {
+    .btn__box {
+        width: 100%;
+        text-align: center;
+        padding: 20px;
+
+        button {
+            width: 130px;
+            /* height: 35px; */
+            padding: 8px;
+            margin: 10px;
+            background-color: var(--black);
+            color: var(--white);
+            border: 1px solid;
+            border-radius: 40px;
+            transition: all 0.3s;
+            font-family: var(--font-sub2);
+            font-weight: bold;
+
+            &:hover {
+                background-color:var(--white);
+                color: var(--black);
+            }
+        }
+    }
 }
